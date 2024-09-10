@@ -25,9 +25,13 @@ Elevate the visual appeal of your food delivery platform with Your Image Genie. 
 
 ![Generated Images Performance](image_generation.png)
 
+*Note: Success rate represents the percentage of generated images that passed all quality checks and were delivered to the customer's platform.*
+
 * **Refined Images: Monthly Output and Success Rate**
 
 ![Refined Images Performance](image_refining.png)
+
+*Note: Success rate represents the percentage of refined images that passed all quality checks and were delivered to the customer's platform.*
 
 **Getting Started**
 
@@ -37,6 +41,8 @@ Contact us to discuss your platform's specific needs and how Your Image Genie ca
 
 * **Target Audience:** Delivery platforms and restaurants seeking to improve their visual representation.
 * **Technology:** Advanced AI algorithms for image generation and enhancement.
-* **Pricing:** Contact us for a customized pricing plan.
+* **Pricing:** Contact us for a customized pricing plan. *Pricing is based solely on the number of images that pass your quality checks and are successfully delivered to your platform. We do not charge for discarded images.* 
 
 **Let Your Image Genie transform your food delivery platform into a visual feast!**
+
+yourimagegenie@gmail.com
